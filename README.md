@@ -2,7 +2,7 @@
 
 创新JDK主要在开源OpenJDK基础上，完善NUMA算法，通过重新打包而成。在Java启动时候，额外添加参数 -XX:+UseNUMA 即可运行成功
 
-## 打包后OpenJDK
+## 创新OpenJDK
 
 - [创新amd64版本](http://39.106.40.190/jdk/tongtech/amd64/tongtech-jdk8-b120-amd64.tar.gz)
 - [创新arm64版本](http://39.106.40.190/jdk/tongtech/arm64/tongtech-jdk8-b120-arm64.tar.gz)
