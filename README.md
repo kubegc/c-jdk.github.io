@@ -4,9 +4,9 @@
 
 ## 打包后OpenJDK
 
-- [amd64版本](http://39.106.40.190/jdk/tongtech/amd64/tongtech-jdk8-b120-amd64.tar.gz)
-- [arm64版本](http://39.106.40.190/jdk/tongtech/arm64/tongtech-jdk8-b120-arm64.tar.gz)
-- [loongson版本]()
+- [创新amd64版本](http://39.106.40.190/jdk/tongtech/amd64/tongtech-jdk8-b120-amd64.tar.gz)
+- [创新arm64版本](http://39.106.40.190/jdk/tongtech/arm64/tongtech-jdk8-b120-arm64.tar.gz)
+- [创新loongson版本]()
 
 OpenJDK环境配置，请查看[文档](http://39.106.40.190/jdk/tongtech/arm64/readme)
 
