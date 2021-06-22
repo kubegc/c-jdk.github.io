@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 课题成果
 
-You can use the [editor on GitHub](https://github.com/c-jdk/c-jdk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+创新JDK主要在开源OpenJDK基础上，完善NUMA算法，通过重新打包而成。在Java启动时候，额外添加参数 -XX:+UseNUMA 即可运行成功
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 打包后OpenJDK
 
-### Markdown
+- [amd64版本](http://39.106.40.190/jdk/tongtech/amd64/tongtech-jdk8-b120-amd64.tar.gz)
+- [arm64版本](http://39.106.40.190/jdk/tongtech/arm64/tongtech-jdk8-b120-arm64.tar.gz)
+- [loongson版本]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+OpenJDK环境配置，请查看[文档](http://39.106.40.190/jdk/tongtech/arm64/readme)
 
-```markdown
-Syntax highlighted code block
+## 原生OpenJDK
 
-# Header 1
-## Header 2
-### Header 3
+- [amd64版本](http://39.106.40.190/jdk/community/amd64/readme)
+- [arm64版本](http://39.106.40.190/jdk/community/arm64/readme)
+- [loongson版本](http://39.106.40.190/jdk/community/loongson/loongson_openjdk8.1.7-jdk8u282b08-linux-loongson3a.tar.gz)
 
-- Bulleted
-- List
+## 附件：基于OpenJDK的版本
 
-1. Numbered
-2. List
+- [amd64版本](https://hg.openjdk.java.net/jdk8/jdk8/)
+- [arm64版本](http://hg.openjdk.java.net/aarch64-port/jdk8/)
+- [loongson版本](http://hg.loongnix.org/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c-jdk/c-jdk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
