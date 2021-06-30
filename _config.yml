@@ -1,2 +1,3 @@
 theme: jekyll-theme-midnight
-title: [创新OpenJDK]
+title: [TongJDK]
+description: TongJDK是基于OpenJDK 8进行研制的。
