@@ -15,8 +15,8 @@ TongJDK环境配置，请查看[文档](http://182.92.208.39/jdk/tongtech/arm64/
 
 ## 2.2 TongJDK v1.0
 
-- [amd64 v1.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-jdk8-b120-amd64.tar.gz)
-- [arm64 v1.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-jdk8-b120-arm64.tar.gz)
+- [amd64 v1.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-openjdk-amd64-v1.0.tar.gz)
+- [arm64 v1.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-arm64-v1.0.tar.gz)
 - [loongson v1.0]()
 
 
