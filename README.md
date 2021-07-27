@@ -29,6 +29,6 @@ TongJDK环境配置，请查看[文档](http://182.92.208.39/jdk/tongtech/arm64/
 # 四、OpenJDK 8源代码
 
 - [amd64版本](https://openjdk-sources.osci.io/openjdk8/openjdk8u302-ga.tar.xz)
-- [arm64版本](http://hg.openjdk.java.net/aarch64-port/jdk8/)
+- [arm64版本](http://hg.openjdk.java.net/aarch64-port/jdk8u-shenandoah/archive/f7f1e6a9ee97.zip)
 - [loongson版本](http://hg.loongnix.org/)
 
