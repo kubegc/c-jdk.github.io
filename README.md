@@ -7,18 +7,18 @@ TongJDK在OpenJDK 8 基础上，针对ARM、MIPS、X86等创新CPU架构和创�
 
 ## 2.1 TongJDK v2.0
 
-- [amd64 v2.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-openjdk-amd64-v2.0.tar.gz)
-- [arm64 v2.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-arm64-v2.0.tar.gz)
-- [mips64 v2.0](http://182.92.208.39/jdk/tongtech/mips64/tongtech-openjdk-mips64-v2.0.tar.gz)
-
-TongJDK环境配置，请查看[文档](http://182.92.208.39/jdk/tongtech/arm64/readme)
+- [amd64 v2.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-openjdk-amd64-v2.0.tar.gz): 兆芯、海光
+- [arm64 v2.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-arm64-v2.0.tar.gz): 飞腾、鲲鹏
+- [mips64 v2.0](http://182.92.208.39/jdk/tongtech/mips64/tongtech-openjdk-mips64-v2.0.tar.gz)：龙芯
 
 ## 2.2 TongJDK v1.0
 
-- [amd64 v1.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-openjdk-amd64-v1.0.tar.gz)
-- [arm64 v1.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-arm64-v1.0.tar.gz)
-- [loongson v1.0]()
+- [amd64 v1.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-openjdk-amd64-v1.0.tar.gz): 兆芯、海光
+- [arm64 v1.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-arm64-v1.0.tar.gz): 飞腾、鲲鹏
+- [mips64 v1.0]()：龙芯
 
+
+版本更新[文档](http://182.92.208.39/jdk/tongtech/arm64/readme)
 
 # 三、OpenJDK 8(二级制)
 
