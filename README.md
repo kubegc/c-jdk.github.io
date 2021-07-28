@@ -8,7 +8,7 @@ TongJDK在OpenJDK 8 基础上，针对ARM、MIPS、X86等创新CPU架构和创�
 ## 2.1 TongJDK v2.0
 
 - [amd64 v2.0](http://182.92.208.39/jdk/tongtech/amd64/tongtech-openjdk-amd64-v2.0.tar.gz)
-- [arm64 v2.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-amd64-v2.0.tar.gz)
+- [arm64 v2.0](http://182.92.208.39/jdk/tongtech/arm64/tongtech-openjdk-arm64-v2.0.tar.gz)
 - [loongson v2.0]()
 
 TongJDK环境配置，请查看[文档](http://182.92.208.39/jdk/tongtech/arm64/readme)
