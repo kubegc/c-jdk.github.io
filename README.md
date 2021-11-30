@@ -38,5 +38,5 @@ TongJDK在OpenJDK 8 基础上，针对ARM、MIPS、X86等创新CPU架构和创�
 
 - [amd64版本](https://openjdk-sources.osci.io/openjdk8/openjdk8u302-ga.tar.xz)
 - [arm64版本](http://hg.openjdk.java.net/aarch64-port/jdk8u-shenandoah/archive/f7f1e6a9ee97.zip)
-- [loongson版本](http://hg.loongnix.org/)
+- [loongson版本](http://hg.loongnix.cn/)
 
